@@ -1,0 +1,26 @@
+
+div {
+    height: 200px;
+    border: 6px solid black;
+}
+
+.red {
+    height: 200px;
+    background: red;
+    position: relative;
+    top: 10px; left: 40px;
+}
+
+.fixed {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    position: absolute;
+}
+
+.green {
+    height: 50px;
+    background: green;
+    position: sticky;
+    top: 30px;
+}
